@@ -14,8 +14,7 @@ MyLeetCode/
 │   │   ├── LCP/          # LCP 题目
 │   │   ├── LCR/          # LCR 题目
 │   │   ├── LCS/          # LCS 题目
-│   │   ├── interview/    # 面试题
-│   │   └── plans/        # 学习计划题目
+│   │   └── interview/    # 面试题
 │   ├── contest/          # 竞赛题目
 │   ├── common/           # 公共工具类
 │   └── legacy/           # 历史题解（保留原样）
