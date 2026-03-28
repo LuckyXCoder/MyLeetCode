@@ -83,7 +83,7 @@ uv run python src/leetcode_sync/generate_markdown.py
 在 `~/.zshrc` 中添加别名：
 
 ```bash
-alias py-lc-move='cd /Users/siyuan/Jetbrains/IdeaProjects/MyLeetCode/leetcode_sync && uv run python src/leetcode_sync/py_lc_move.py'
+alias py-lc-move='cd /Users/siyuan/Jetbrains/IdeaProjects/MyLeetCode/leetcode_sync && uv run python src/leetcode_sync/lc_move.py'
 ```
 
 然后在任意终端中使用：
