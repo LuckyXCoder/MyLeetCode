@@ -234,11 +234,15 @@ def main():
         with open(md_path, "w", encoding="utf-8") as f:
             f.write(generate_md(q))
 
-        # Solution.java
+        # Solution.java：生成时自动补上 package 声明，确保复制到 src 后 IDE 可直接识别
+        # package 路径 = leetcode.{题型子目录}.{题目目录}
+        # 例如: leetcode.problems.lc0056_merge_intervals、leetcode.LCP.LCP01_xxx
         if q["javaCode"]:
             java_path = os.path.join(problem_dir, "Solution.java")
+            pkg_subdir = os.path.basename(type_dir)
+            package_name = f"leetcode.{pkg_subdir}.{dir_name}"
             with open(java_path, "w", encoding="utf-8") as f:
-                f.write(q["javaCode"])
+                f.write(f"package {package_name};\n\n{q['javaCode']}")
 
     print(f"完成！共生成 {len(problems)} 题")
     print(f"输出目录: {GENERATED_DIR}")
