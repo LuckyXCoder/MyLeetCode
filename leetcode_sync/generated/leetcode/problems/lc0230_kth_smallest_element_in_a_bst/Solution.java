@@ -1,3 +1,5 @@
+package leetcode.problems.lc0230_kth_smallest_element_in_a_bst;
+
 /**
  * Definition for a binary tree node.
  * public class TreeNode {

@@ -1,3 +1,5 @@
+package leetcode.problems.lc1825_finding_mk_average;
+
 class MKAverage {
 
     public MKAverage(int m, int k) {

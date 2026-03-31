@@ -1,3 +1,5 @@
+package leetcode.problems.lc1373_maximum_sum_bst_in_binary_tree;
+
 /**
  * Definition for a binary tree node.
  * public class TreeNode {

@@ -1,3 +1,5 @@
+package leetcode.problems.lc1305_all_elements_in_two_binary_search_trees;
+
 /**
  * Definition for a binary tree node.
  * public class TreeNode {

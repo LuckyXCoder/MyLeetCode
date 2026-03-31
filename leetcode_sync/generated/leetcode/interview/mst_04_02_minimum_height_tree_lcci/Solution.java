@@ -1,3 +1,5 @@
+package leetcode.interview.mst_04_02_minimum_height_tree_lcci;
+
 /**
  * Definition for a binary tree node.
  * public class TreeNode {

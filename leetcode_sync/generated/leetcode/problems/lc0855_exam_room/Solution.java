@@ -1,3 +1,5 @@
+package leetcode.problems.lc0855_exam_room;
+
 class ExamRoom {
 
     public ExamRoom(int n) {

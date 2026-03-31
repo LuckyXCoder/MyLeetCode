@@ -1,3 +1,5 @@
+package leetcode.problems.lc0094_binary_tree_inorder_traversal;
+
 /**
  * Definition for a binary tree node.
  * public class TreeNode {

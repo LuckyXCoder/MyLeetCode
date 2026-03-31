@@ -1,3 +1,5 @@
+package leetcode.interview.mst_03_03_stack_of_plates_lcci;
+
 class StackOfPlates {
 
     public StackOfPlates(int cap) {

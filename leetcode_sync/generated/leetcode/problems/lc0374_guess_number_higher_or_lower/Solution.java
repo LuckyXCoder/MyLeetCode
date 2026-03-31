@@ -1,3 +1,5 @@
+package leetcode.problems.lc0374_guess_number_higher_or_lower;
+
 /** 
  * Forward declaration of guess API.
  * @param  num   your guess

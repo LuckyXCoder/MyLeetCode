@@ -1,3 +1,5 @@
+package leetcode.problems.lc0236_lowest_common_ancestor_of_a_binary_tree;
+
 /**
  * Definition for a binary tree node.
  * public class TreeNode {

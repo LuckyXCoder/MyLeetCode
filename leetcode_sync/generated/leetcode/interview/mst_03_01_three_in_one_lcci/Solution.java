@@ -1,3 +1,5 @@
+package leetcode.interview.mst_03_01_three_in_one_lcci;
+
 class TripleInOne {
 
     public TripleInOne(int stackSize) {

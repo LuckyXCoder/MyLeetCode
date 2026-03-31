@@ -1,3 +1,5 @@
+package leetcode.problems.lc1357_apply_discount_every_n_orders;
+
 class Cashier {
 
     public Cashier(int n, int discount, int[] products, int[] prices) {

@@ -1,3 +1,5 @@
+package leetcode.problems.lc1172_dinner_plate_stacks;
+
 class DinnerPlates {
 
     public DinnerPlates(int capacity) {

@@ -1,3 +1,5 @@
+package leetcode.LCR.LCR071_cuyjEf;
+
 class Solution {
 
     public Solution(int[] w) {

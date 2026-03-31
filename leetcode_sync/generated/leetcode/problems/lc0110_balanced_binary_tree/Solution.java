@@ -1,3 +1,5 @@
+package leetcode.problems.lc0110_balanced_binary_tree;
+
 /**
  * Definition for a binary tree node.
  * public class TreeNode {

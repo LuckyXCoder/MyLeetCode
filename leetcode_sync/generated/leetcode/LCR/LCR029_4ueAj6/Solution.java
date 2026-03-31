@@ -1,3 +1,5 @@
+package leetcode.LCR.LCR029_4ueAj6;
+
 /*
 // Definition for a Node.
 class Node {

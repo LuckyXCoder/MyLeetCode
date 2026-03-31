@@ -1,3 +1,5 @@
+package leetcode.problems.lc1600_throne_inheritance;
+
 class ThroneInheritance {
 
     public ThroneInheritance(String kingName) {

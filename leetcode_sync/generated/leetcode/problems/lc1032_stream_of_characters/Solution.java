@@ -1,3 +1,5 @@
+package leetcode.problems.lc1032_stream_of_characters;
+
 class StreamChecker {
 
     public StreamChecker(String[] words) {

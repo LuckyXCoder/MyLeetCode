@@ -1,3 +1,5 @@
+package leetcode.problems.lc0328_odd_even_linked_list;
+
 /**
  * Definition for singly-linked list.
  * public class ListNode {

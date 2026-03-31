@@ -1,3 +1,5 @@
+package leetcode.problems.lc0817_linked_list_components;
+
 /**
  * Definition for singly-linked list.
  * public class ListNode {

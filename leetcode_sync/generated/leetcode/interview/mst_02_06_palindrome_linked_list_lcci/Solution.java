@@ -1,3 +1,5 @@
+package leetcode.interview.mst_02_06_palindrome_linked_list_lcci;
+
 /**
  * Definition for singly-linked list.
  * public class ListNode {

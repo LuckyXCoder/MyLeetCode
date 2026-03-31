@@ -1,3 +1,5 @@
+package leetcode.LCP.LCP27_IQvJ9i;
+
 class BlackBox {
 
     public BlackBox(int n, int m) {

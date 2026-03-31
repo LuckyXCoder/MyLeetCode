@@ -1,3 +1,5 @@
+package leetcode.problems.lc1352_product_of_the_last_k_numbers;
+
 class ProductOfNumbers {
 
     public ProductOfNumbers() {

@@ -1,3 +1,5 @@
+package leetcode.interview.mst_03_04_implement_queue_using_stacks_lcci;
+
 class MyQueue {
 
     /** Initialize your data structure here. */

@@ -1,3 +1,5 @@
+package leetcode.problems.lc0528_random_pick_with_weight;
+
 class Solution {
 
     public Solution(int[] w) {

@@ -1,3 +1,5 @@
+package leetcode.problems.lc0900_rle_iterator;
+
 class RLEIterator {
 
     public RLEIterator(int[] encoding) {

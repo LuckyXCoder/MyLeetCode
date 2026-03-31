@@ -1,3 +1,5 @@
+package leetcode.problems.lc3709_design_exam_scores_tracker;
+
 class ExamTracker {
 
     public ExamTracker() {

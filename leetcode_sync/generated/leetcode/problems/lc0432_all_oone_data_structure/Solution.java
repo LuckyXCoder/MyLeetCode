@@ -1,3 +1,5 @@
+package leetcode.problems.lc0432_all_oone_data_structure;
+
 class AllOne {
 
     public AllOne() {

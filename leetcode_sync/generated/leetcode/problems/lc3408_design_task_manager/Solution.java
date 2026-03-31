@@ -1,3 +1,5 @@
+package leetcode.problems.lc3408_design_task_manager;
+
 class TaskManager {
 
     public TaskManager(List<List<Integer>> tasks) {

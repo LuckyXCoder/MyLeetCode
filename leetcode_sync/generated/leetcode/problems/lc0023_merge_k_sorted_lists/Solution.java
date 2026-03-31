@@ -1,3 +1,5 @@
+package leetcode.problems.lc0023_merge_k_sorted_lists;
+
 /**
  * Definition for singly-linked list.
  * public class ListNode {

@@ -1,3 +1,5 @@
+package leetcode.problems.lc2043_simple_bank_system;
+
 class Bank {
 
     public Bank(long[] balance) {

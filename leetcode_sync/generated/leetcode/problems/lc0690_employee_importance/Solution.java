@@ -1,3 +1,5 @@
+package leetcode.problems.lc0690_employee_importance;
+
 /*
 // Definition for Employee.
 class Employee {

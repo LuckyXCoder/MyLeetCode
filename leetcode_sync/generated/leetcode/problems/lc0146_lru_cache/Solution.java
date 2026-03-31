@@ -1,3 +1,5 @@
+package leetcode.problems.lc0146_lru_cache;
+
 class LRUCache {
 
     public LRUCache(int capacity) {

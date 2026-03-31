@@ -1,3 +1,5 @@
+package leetcode.problems.lc1339_maximum_product_of_splitted_binary_tree;
+
 /**
  * Definition for a binary tree node.
  * public class TreeNode {

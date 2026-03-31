@@ -1,3 +1,5 @@
+package leetcode.problems.lc0478_generate_random_point_in_a_circle;
+
 class Solution {
 
     public Solution(double radius, double x_center, double y_center) {

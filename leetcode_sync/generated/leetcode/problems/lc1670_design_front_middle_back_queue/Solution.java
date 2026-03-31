@@ -1,3 +1,5 @@
+package leetcode.problems.lc1670_design_front_middle_back_queue;
+
 class FrontMiddleBackQueue {
 
     public FrontMiddleBackQueue() {

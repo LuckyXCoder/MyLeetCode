@@ -1,3 +1,5 @@
+package leetcode.problems.lc2642_design_graph_with_shortest_path_calculator;
+
 class Graph {
 
     public Graph(int n, int[][] edges) {

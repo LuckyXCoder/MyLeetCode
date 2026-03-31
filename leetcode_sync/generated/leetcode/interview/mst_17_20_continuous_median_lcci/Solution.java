@@ -1,3 +1,5 @@
+package leetcode.interview.mst_17_20_continuous_median_lcci;
+
 class MedianFinder {
 
     /** initialize your data structure here. */

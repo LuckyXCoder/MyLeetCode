@@ -1,3 +1,5 @@
+package leetcode.problems.lc0508_most_frequent_subtree_sum;
+
 /**
  * Definition for a binary tree node.
  * public class TreeNode {

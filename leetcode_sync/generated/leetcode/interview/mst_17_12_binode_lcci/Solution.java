@@ -1,3 +1,5 @@
+package leetcode.interview.mst_17_12_binode_lcci;
+
 /**
  * Definition for a binary tree node.
  * public class TreeNode {

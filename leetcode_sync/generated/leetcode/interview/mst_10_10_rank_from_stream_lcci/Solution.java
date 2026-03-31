@@ -1,3 +1,5 @@
+package leetcode.interview.mst_10_10_rank_from_stream_lcci;
+
 class StreamRank {
 
     public StreamRank() {

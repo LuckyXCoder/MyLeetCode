@@ -1,3 +1,5 @@
+package leetcode.problems.lc0951_flip_equivalent_binary_trees;
+
 /**
  * Definition for a binary tree node.
  * public class TreeNode {

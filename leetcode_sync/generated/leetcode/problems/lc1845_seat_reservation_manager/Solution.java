@@ -1,3 +1,5 @@
+package leetcode.problems.lc1845_seat_reservation_manager;
+
 class SeatManager {
 
     public SeatManager(int n) {

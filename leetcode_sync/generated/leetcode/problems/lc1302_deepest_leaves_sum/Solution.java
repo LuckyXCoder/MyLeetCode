@@ -1,3 +1,5 @@
+package leetcode.problems.lc1302_deepest_leaves_sum;
+
 /**
  * Definition for a binary tree node.
  * public class TreeNode {

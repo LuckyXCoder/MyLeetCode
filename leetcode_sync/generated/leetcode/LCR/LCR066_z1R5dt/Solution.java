@@ -1,3 +1,5 @@
+package leetcode.LCR.LCR066_z1R5dt;
+
 class MapSum {
 
     /** Initialize your data structure here. */

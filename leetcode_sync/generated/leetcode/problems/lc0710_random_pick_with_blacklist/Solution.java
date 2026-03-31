@@ -1,3 +1,5 @@
+package leetcode.problems.lc0710_random_pick_with_blacklist;
+
 class Solution {
 
     public Solution(int n, int[] blacklist) {

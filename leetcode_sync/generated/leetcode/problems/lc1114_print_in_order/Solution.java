@@ -1,3 +1,5 @@
+package leetcode.problems.lc1114_print_in_order;
+
 class Foo {
 
     public Foo() {

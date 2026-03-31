@@ -1,3 +1,5 @@
+package leetcode.problems.lc0355_design_twitter;
+
 class Twitter {
 
     public Twitter() {

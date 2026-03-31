@@ -1,3 +1,5 @@
+package leetcode.problems.lc0606_construct_string_from_binary_tree;
+
 /**
  * Definition for a binary tree node.
  * public class TreeNode {

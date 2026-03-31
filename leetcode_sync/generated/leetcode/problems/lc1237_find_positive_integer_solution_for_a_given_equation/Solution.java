@@ -1,3 +1,5 @@
+package leetcode.problems.lc1237_find_positive_integer_solution_for_a_given_equation;
+
 /*
  * // This is the custom function interface.
  * // You should not implement it, or speculate about its implementation

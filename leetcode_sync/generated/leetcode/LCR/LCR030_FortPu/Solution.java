@@ -1,3 +1,5 @@
+package leetcode.LCR.LCR030_FortPu;
+
 class RandomizedSet {
 
     /** Initialize your data structure here. */

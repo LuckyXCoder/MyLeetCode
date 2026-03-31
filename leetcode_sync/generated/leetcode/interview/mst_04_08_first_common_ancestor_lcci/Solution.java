@@ -1,3 +1,5 @@
+package leetcode.interview.mst_04_08_first_common_ancestor_lcci;
+
 /**
  * Definition for a binary tree node.
  * public class TreeNode {

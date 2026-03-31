@@ -1,3 +1,5 @@
+package leetcode.problems.lc0114_flatten_binary_tree_to_linked_list;
+
 /**
  * Definition for a binary tree node.
  * public class TreeNode {

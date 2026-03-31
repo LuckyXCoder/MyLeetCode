@@ -1,3 +1,5 @@
+package leetcode.LCR.LCR184_dui_lie_de_zui_da_zhi_lcof;
+
 class Checkout {
 
     public Checkout() {

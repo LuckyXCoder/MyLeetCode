@@ -1,3 +1,5 @@
+package leetcode.problems.lc0086_partition_list;
+
 /**
  * Definition for singly-linked list.
  * public class ListNode {

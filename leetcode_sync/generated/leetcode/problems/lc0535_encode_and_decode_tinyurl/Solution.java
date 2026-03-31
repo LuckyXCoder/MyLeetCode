@@ -1,3 +1,5 @@
+package leetcode.problems.lc0535_encode_and_decode_tinyurl;
+
 public class Codec {
 
     // Encodes a URL to a shortened URL.

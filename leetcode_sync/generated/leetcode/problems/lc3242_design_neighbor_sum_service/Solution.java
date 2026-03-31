@@ -1,3 +1,5 @@
+package leetcode.problems.lc3242_design_neighbor_sum_service;
+
 class NeighborSum {
 
     public NeighborSum(int[][] grid) {

@@ -1,3 +1,5 @@
+package leetcode.problems.lc1932_merge_bsts_to_create_single_bst;
+
 /**
  * Definition for a binary tree node.
  * public class TreeNode {

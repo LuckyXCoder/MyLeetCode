@@ -1,3 +1,5 @@
+package leetcode.problems.lc0988_smallest_string_starting_from_leaf;
+
 /**
  * Definition for a binary tree node.
  * public class TreeNode {

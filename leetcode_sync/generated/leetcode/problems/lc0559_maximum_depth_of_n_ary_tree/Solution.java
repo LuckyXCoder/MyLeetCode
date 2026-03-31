@@ -1,3 +1,5 @@
+package leetcode.problems.lc0559_maximum_depth_of_n_ary_tree;
+
 /*
 // Definition for a Node.
 class Node {

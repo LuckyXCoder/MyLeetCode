@@ -1,3 +1,5 @@
+package leetcode.problems.lc1146_snapshot_array;
+
 class SnapshotArray {
 
     public SnapshotArray(int length) {

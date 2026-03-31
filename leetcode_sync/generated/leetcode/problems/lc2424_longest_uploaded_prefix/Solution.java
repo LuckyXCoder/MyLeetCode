@@ -1,3 +1,5 @@
+package leetcode.problems.lc2424_longest_uploaded_prefix;
+
 class LUPrefix {
 
     public LUPrefix(int n) {

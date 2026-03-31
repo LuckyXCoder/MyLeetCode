@@ -1,3 +1,5 @@
+package leetcode.problems.lc0112_path_sum;
+
 /**
  * Definition for a binary tree node.
  * public class TreeNode {

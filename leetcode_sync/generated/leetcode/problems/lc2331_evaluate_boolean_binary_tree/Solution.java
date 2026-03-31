@@ -1,3 +1,5 @@
+package leetcode.problems.lc2331_evaluate_boolean_binary_tree;
+
 /**
  * Definition for a binary tree node.
  * public class TreeNode {

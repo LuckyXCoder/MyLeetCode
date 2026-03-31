@@ -1,3 +1,5 @@
+package leetcode.problems.lc0671_second_minimum_node_in_a_binary_tree;
+
 /**
  * Definition for a binary tree node.
  * public class TreeNode {

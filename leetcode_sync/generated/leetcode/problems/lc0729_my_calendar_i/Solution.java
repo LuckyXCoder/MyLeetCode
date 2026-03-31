@@ -1,3 +1,5 @@
+package leetcode.problems.lc0729_my_calendar_i;
+
 class MyCalendar {
 
     public MyCalendar() {

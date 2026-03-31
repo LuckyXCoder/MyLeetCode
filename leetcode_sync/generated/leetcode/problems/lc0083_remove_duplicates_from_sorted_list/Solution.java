@@ -1,3 +1,5 @@
+package leetcode.problems.lc0083_remove_duplicates_from_sorted_list;
+
 /**
  * Definition for singly-linked list.
  * public class ListNode {

@@ -1,3 +1,5 @@
+package leetcode.problems.lc2096_step_by_step_directions_from_a_binary_tree_node_to_another;
+
 /**
  * Definition for a binary tree node.
  * public class TreeNode {

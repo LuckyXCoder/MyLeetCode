@@ -1,3 +1,5 @@
+package leetcode.problems.lc0427_construct_quad_tree;
+
 /*
 // Definition for a QuadTree node.
 class Node {

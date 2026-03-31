@@ -1,3 +1,5 @@
+package leetcode.problems.lc2296_design_a_text_editor;
+
 class TextEditor {
 
     public TextEditor() {

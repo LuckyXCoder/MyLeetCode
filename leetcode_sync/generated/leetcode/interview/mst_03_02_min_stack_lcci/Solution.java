@@ -1,3 +1,5 @@
+package leetcode.interview.mst_03_02_min_stack_lcci;
+
 class MinStack {
 
     /** initialize your data structure here. */

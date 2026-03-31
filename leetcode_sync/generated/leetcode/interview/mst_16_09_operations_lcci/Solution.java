@@ -1,3 +1,5 @@
+package leetcode.interview.mst_16_09_operations_lcci;
+
 class Operations {
 
     public Operations() {

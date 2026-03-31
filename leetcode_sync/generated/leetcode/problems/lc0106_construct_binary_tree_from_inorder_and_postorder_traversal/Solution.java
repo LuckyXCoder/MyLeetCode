@@ -1,3 +1,5 @@
+package leetcode.problems.lc0106_construct_binary_tree_from_inorder_and_postorder_traversal;
+
 /**
  * Definition for a binary tree node.
  * public class TreeNode {

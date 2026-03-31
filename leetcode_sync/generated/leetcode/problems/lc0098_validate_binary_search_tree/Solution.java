@@ -1,3 +1,5 @@
+package leetcode.problems.lc0098_validate_binary_search_tree;
+
 /**
  * Definition for a binary tree node.
  * public class TreeNode {

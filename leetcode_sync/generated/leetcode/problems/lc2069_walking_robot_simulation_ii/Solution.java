@@ -1,3 +1,5 @@
+package leetcode.problems.lc2069_walking_robot_simulation_ii;
+
 class Robot {
 
     public Robot(int width, int height) {

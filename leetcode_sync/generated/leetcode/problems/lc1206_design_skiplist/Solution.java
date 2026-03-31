@@ -1,3 +1,5 @@
+package leetcode.problems.lc1206_design_skiplist;
+
 class Skiplist {
 
     public Skiplist() {

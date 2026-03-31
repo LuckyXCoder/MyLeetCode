@@ -1,3 +1,5 @@
+package leetcode.problems.lc0404_sum_of_left_leaves;
+
 /**
  * Definition for a binary tree node.
  * public class TreeNode {

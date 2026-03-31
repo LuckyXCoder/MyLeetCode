@@ -1,3 +1,5 @@
+package leetcode.interview.mst_02_03_delete_middle_node_lcci;
+
 /**
  * Definition for singly-linked list.
  * public class ListNode {

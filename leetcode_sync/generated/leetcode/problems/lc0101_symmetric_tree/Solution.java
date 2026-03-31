@@ -1,3 +1,5 @@
+package leetcode.problems.lc0101_symmetric_tree;
+
 /**
  * Definition for a binary tree node.
  * public class TreeNode {

@@ -1,3 +1,5 @@
+package leetcode.problems.lc0303_range_sum_query_immutable;
+
 class NumArray {
 
     public NumArray(int[] nums) {

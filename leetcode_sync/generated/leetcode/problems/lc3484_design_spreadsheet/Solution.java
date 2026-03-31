@@ -1,3 +1,5 @@
+package leetcode.problems.lc3484_design_spreadsheet;
+
 class Spreadsheet {
 
     public Spreadsheet(int rows) {

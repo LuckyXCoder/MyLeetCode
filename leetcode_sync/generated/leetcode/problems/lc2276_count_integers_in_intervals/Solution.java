@@ -1,3 +1,5 @@
+package leetcode.problems.lc2276_count_integers_in_intervals;
+
 class CountIntervals {
 
     public CountIntervals() {

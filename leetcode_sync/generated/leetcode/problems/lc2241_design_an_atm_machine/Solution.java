@@ -1,3 +1,5 @@
+package leetcode.problems.lc2241_design_an_atm_machine;
+
 class ATM {
 
     public ATM() {

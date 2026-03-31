@@ -1,3 +1,5 @@
+package leetcode.problems.lc1382_balance_a_binary_search_tree;
+
 /**
  * Definition for a binary tree node.
  * public class TreeNode {

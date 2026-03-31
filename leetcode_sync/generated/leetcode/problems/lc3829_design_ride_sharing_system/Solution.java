@@ -1,3 +1,5 @@
+package leetcode.problems.lc3829_design_ride_sharing_system;
+
 class RideSharingSystem {
 
     public RideSharingSystem() {

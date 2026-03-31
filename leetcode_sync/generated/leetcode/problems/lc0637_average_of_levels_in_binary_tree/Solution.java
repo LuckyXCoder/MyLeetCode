@@ -1,3 +1,5 @@
+package leetcode.problems.lc0637_average_of_levels_in_binary_tree;
+
 /**
  * Definition for a binary tree node.
  * public class TreeNode {

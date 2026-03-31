@@ -1,3 +1,5 @@
+package leetcode.problems.lc1115_print_foobar_alternately;
+
 class FooBar {
     private int n;
 

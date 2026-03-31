@@ -1,3 +1,5 @@
+package leetcode.problems.lc0590_n_ary_tree_postorder_traversal;
+
 /*
 // Definition for a Node.
 class Node {

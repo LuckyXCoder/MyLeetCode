@@ -1,3 +1,5 @@
+package leetcode.problems.lc0725_split_linked_list_in_parts;
+
 /**
  * Definition for singly-linked list.
  * public class ListNode {

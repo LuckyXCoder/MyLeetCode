@@ -1,3 +1,5 @@
+package leetcode.problems.lc0092_reverse_linked_list_ii;
+
 /**
  * Definition for singly-linked list.
  * public class ListNode {

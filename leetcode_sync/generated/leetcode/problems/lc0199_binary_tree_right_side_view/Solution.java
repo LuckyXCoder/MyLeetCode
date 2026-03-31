@@ -1,3 +1,5 @@
+package leetcode.problems.lc0199_binary_tree_right_side_view;
+
 /**
  * Definition for a binary tree node.
  * public class TreeNode {

@@ -1,3 +1,5 @@
+package leetcode.problems.lc3508_implement_router;
+
 class Router {
 
     public Router(int memoryLimit) {

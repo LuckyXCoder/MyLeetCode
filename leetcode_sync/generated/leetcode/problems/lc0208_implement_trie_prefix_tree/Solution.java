@@ -1,3 +1,5 @@
+package leetcode.problems.lc0208_implement_trie_prefix_tree;
+
 class Trie {
 
     public Trie() {

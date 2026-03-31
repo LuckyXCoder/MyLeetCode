@@ -1,3 +1,5 @@
+package leetcode.problems.lc0307_range_sum_query_mutable;
+
 class NumArray {
 
     public NumArray(int[] nums) {

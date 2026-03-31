@@ -1,3 +1,5 @@
+package leetcode.problems.lc0116_populating_next_right_pointers_in_each_node;
+
 /*
 // Definition for a Node.
 class Node {

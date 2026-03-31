@@ -1,3 +1,5 @@
+package leetcode.problems.lc2671_frequency_tracker;
+
 class FrequencyTracker {
 
     public FrequencyTracker() {

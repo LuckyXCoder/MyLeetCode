@@ -1,3 +1,5 @@
+package leetcode.LCP.LCP52_QO5KpG;
+
 /**
  * Definition for a binary tree node.
  * public class TreeNode {

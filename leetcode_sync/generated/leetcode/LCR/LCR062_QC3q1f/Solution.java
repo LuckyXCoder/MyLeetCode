@@ -1,3 +1,5 @@
+package leetcode.LCR.LCR062_QC3q1f;
+
 class Trie {
 
     /** Initialize your data structure here. */

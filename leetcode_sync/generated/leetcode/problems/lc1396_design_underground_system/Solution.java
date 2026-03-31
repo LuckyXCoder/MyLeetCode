@@ -1,3 +1,5 @@
+package leetcode.problems.lc1396_design_underground_system;
+
 class UndergroundSystem {
 
     public UndergroundSystem() {

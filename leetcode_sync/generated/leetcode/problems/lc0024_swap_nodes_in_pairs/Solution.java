@@ -1,3 +1,5 @@
+package leetcode.problems.lc0024_swap_nodes_in_pairs;
+
 /**
  * Definition for singly-linked list.
  * public class ListNode {

@@ -1,3 +1,5 @@
+package leetcode.problems.lc1993_operations_on_tree;
+
 class LockingTree {
 
     public LockingTree(int[] parent) {

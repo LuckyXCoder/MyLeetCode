@@ -1,3 +1,5 @@
+package leetcode.problems.lc0141_linked_list_cycle;
+
 /**
  * Definition for singly-linked list.
  * class ListNode {

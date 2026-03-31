@@ -1,3 +1,5 @@
+package leetcode.problems.lc0677_map_sum_pairs;
+
 class MapSum {
 
     public MapSum() {

@@ -1,3 +1,5 @@
+package leetcode.problems.lc0707_design_linked_list;
+
 class MyLinkedList {
 
     public MyLinkedList() {

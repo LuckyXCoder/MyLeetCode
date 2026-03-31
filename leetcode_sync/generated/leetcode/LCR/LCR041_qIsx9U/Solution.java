@@ -1,3 +1,5 @@
+package leetcode.LCR.LCR041_qIsx9U;
+
 class MovingAverage {
 
     /** Initialize your data structure here. */

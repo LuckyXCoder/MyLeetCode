@@ -1,3 +1,5 @@
+package leetcode.interview.mst_16_25_lru_cache_lcci;
+
 class LRUCache {
 
     public LRUCache(int capacity) {

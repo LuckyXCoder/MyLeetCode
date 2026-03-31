@@ -1,3 +1,5 @@
+package leetcode.problems.lc0933_number_of_recent_calls;
+
 class RecentCounter {
 
     public RecentCounter() {

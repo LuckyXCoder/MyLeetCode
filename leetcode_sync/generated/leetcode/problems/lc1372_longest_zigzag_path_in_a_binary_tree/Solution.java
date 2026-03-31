@@ -1,3 +1,5 @@
+package leetcode.problems.lc1372_longest_zigzag_path_in_a_binary_tree;
+
 /**
  * Definition for a binary tree node.
  * public class TreeNode {

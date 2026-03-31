@@ -1,3 +1,5 @@
+package leetcode.problems.lc0100_same_tree;
+
 /**
  * Definition for a binary tree node.
  * public class TreeNode {

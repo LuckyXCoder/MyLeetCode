@@ -1,3 +1,5 @@
+package leetcode.problems.lc1226_the_dining_philosophers;
+
 class DiningPhilosophers {
 
     public DiningPhilosophers() {

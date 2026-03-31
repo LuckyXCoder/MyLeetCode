@@ -1,3 +1,5 @@
+package leetcode.problems.lc0705_design_hashset;
+
 class MyHashSet {
 
     public MyHashSet() {

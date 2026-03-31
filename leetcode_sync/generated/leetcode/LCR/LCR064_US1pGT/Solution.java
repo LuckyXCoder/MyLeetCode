@@ -1,3 +1,5 @@
+package leetcode.LCR.LCR064_US1pGT;
+
 class MagicDictionary {
 
     /** Initialize your data structure here. */

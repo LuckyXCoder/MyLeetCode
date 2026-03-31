@@ -1,3 +1,5 @@
+package leetcode.problems.lc0894_all_possible_full_binary_trees;
+
 /**
  * Definition for a binary tree node.
  * public class TreeNode {

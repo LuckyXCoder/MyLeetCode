@@ -1,3 +1,5 @@
+package leetcode.LCR.LCR154_fu_za_lian_biao_de_fu_zhi_lcof;
+
 /*
 // Definition for a Node.
 class Node {

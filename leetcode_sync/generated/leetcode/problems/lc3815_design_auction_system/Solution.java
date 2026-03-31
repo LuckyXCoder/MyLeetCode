@@ -1,3 +1,5 @@
+package leetcode.problems.lc3815_design_auction_system;
+
 class AuctionSystem {
 
     public AuctionSystem() {

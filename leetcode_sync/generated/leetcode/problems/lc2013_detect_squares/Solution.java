@@ -1,3 +1,5 @@
+package leetcode.problems.lc2013_detect_squares;
+
 class DetectSquares {
 
     public DetectSquares() {

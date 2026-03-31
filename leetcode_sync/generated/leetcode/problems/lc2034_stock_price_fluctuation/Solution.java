@@ -1,3 +1,5 @@
+package leetcode.problems.lc2034_stock_price_fluctuation;
+
 class StockPrice {
 
     public StockPrice() {

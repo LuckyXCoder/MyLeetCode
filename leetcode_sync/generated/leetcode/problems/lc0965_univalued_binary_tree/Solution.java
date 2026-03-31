@@ -1,3 +1,5 @@
+package leetcode.problems.lc0965_univalued_binary_tree;
+
 /**
  * Definition for a binary tree node.
  * public class TreeNode {

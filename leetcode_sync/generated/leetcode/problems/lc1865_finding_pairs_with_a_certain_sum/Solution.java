@@ -1,3 +1,5 @@
+package leetcode.problems.lc1865_finding_pairs_with_a_certain_sum;
+
 class FindSumPairs {
 
     public FindSumPairs(int[] nums1, int[] nums2) {

@@ -1,3 +1,5 @@
+package leetcode.LCR.LCR160_shu_ju_liu_zhong_de_zhong_wei_shu_lcof;
+
 class MedianFinder {
 
     /** initialize your data structure here. */

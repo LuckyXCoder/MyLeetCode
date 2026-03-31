@@ -1,3 +1,5 @@
+package leetcode.problems.lc0968_binary_tree_cameras;
+
 /**
  * Definition for a binary tree node.
  * public class TreeNode {

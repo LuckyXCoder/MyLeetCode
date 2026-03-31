@@ -1,3 +1,5 @@
+package leetcode.problems.lc0732_my_calendar_iii;
+
 class MyCalendarThree {
 
     public MyCalendarThree() {

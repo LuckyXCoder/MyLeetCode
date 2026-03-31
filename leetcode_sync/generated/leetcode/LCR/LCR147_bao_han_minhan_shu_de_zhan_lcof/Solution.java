@@ -1,3 +1,5 @@
+package leetcode.LCR.LCR147_bao_han_minhan_shu_de_zhan_lcof;
+
 class MinStack {
 
     /** initialize your data structure here. */

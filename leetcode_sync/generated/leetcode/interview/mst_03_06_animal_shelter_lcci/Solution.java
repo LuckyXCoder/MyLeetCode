@@ -1,3 +1,5 @@
+package leetcode.interview.mst_03_06_animal_shelter_lcci;
+
 class AnimalShelf {
 
     public AnimalShelf() {

@@ -1,3 +1,5 @@
+package leetcode.problems.lc0501_find_mode_in_binary_search_tree;
+
 /**
  * Definition for a binary tree node.
  * public class TreeNode {

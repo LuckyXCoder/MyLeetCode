@@ -1,3 +1,5 @@
+package leetcode.problems.lc0257_binary_tree_paths;
+
 /**
  * Definition for a binary tree node.
  * public class TreeNode {

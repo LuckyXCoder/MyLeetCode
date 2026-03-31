@@ -1,3 +1,5 @@
+package leetcode.problems.lc1195_fizz_buzz_multithreaded;
+
 class FizzBuzz {
     private int n;
 

@@ -1,3 +1,5 @@
+package leetcode.problems.lc0138_copy_list_with_random_pointer;
+
 /*
 // Definition for a Node.
 class Node {

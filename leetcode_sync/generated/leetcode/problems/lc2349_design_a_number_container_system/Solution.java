@@ -1,3 +1,5 @@
+package leetcode.problems.lc2349_design_a_number_container_system;
+
 class NumberContainers {
 
     public NumberContainers() {

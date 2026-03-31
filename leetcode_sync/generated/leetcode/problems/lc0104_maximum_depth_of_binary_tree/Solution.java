@@ -1,3 +1,5 @@
+package leetcode.problems.lc0104_maximum_depth_of_binary_tree;
+
 /**
  * Definition for a binary tree node.
  * public class TreeNode {

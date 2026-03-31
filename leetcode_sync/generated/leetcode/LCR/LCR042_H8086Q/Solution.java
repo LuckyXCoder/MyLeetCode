@@ -1,3 +1,5 @@
+package leetcode.LCR.LCR042_H8086Q;
+
 class RecentCounter {
 
     public RecentCounter() {

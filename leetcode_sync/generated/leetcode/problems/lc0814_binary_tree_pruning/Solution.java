@@ -1,3 +1,5 @@
+package leetcode.problems.lc0814_binary_tree_pruning;
+
 /**
  * Definition for a binary tree node.
  * public class TreeNode {

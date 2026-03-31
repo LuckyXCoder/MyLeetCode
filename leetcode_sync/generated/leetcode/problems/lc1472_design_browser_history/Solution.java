@@ -1,3 +1,5 @@
+package leetcode.problems.lc1472_design_browser_history;
+
 class BrowserHistory {
 
     public BrowserHistory(String homepage) {

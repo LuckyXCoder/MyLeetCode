@@ -1,3 +1,5 @@
+package leetcode.problems.lc0384_shuffle_an_array;
+
 class Solution {
 
     public Solution(int[] nums) {

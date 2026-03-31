@@ -1,3 +1,5 @@
+package leetcode.problems.lc0687_longest_univalue_path;
+
 /**
  * Definition for a binary tree node.
  * public class TreeNode {

@@ -1,3 +1,5 @@
+package leetcode.problems.lc2526_find_consecutive_integers_from_a_data_stream;
+
 class DataStream {
 
     public DataStream(int value, int k) {

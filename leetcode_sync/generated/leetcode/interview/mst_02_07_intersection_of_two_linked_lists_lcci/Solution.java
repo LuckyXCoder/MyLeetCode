@@ -1,3 +1,5 @@
+package leetcode.interview.mst_02_07_intersection_of_two_linked_lists_lcci;
+
 /**
  * Definition for singly-linked list.
  * public class ListNode {

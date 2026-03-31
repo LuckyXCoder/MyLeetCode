@@ -1,3 +1,5 @@
+package leetcode.problems.lc0382_linked_list_random_node;
+
 /**
  * Definition for singly-linked list.
  * public class ListNode {

@@ -1,3 +1,5 @@
+package leetcode.interview.mst_16_02_words_frequency_lcci;
+
 class WordsFrequency {
 
     public WordsFrequency(String[] book) {

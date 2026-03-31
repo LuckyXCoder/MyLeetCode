@@ -1,3 +1,5 @@
+package leetcode.problems.lc1157_online_majority_element_in_subarray;
+
 class MajorityChecker {
 
     public MajorityChecker(int[] arr) {

@@ -1,3 +1,5 @@
+package leetcode.problems.lc2353_design_a_food_rating_system;
+
 class FoodRatings {
 
     public FoodRatings(String[] foods, String[] cuisines, int[] ratings) {

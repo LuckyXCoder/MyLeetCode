@@ -1,3 +1,5 @@
+package leetcode.LCR.LCR058_fi9suh;
+
 class MyCalendar {
 
     public MyCalendar() {

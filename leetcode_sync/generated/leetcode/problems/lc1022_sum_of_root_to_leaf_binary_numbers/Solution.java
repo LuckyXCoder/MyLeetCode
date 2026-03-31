@@ -1,3 +1,5 @@
+package leetcode.problems.lc1022_sum_of_root_to_leaf_binary_numbers;
+
 /**
  * Definition for a binary tree node.
  * public class TreeNode {

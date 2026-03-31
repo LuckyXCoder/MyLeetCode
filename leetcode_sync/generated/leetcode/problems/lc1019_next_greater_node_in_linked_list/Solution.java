@@ -1,3 +1,5 @@
+package leetcode.problems.lc1019_next_greater_node_in_linked_list;
+
 /**
  * Definition for singly-linked list.
  * public class ListNode {

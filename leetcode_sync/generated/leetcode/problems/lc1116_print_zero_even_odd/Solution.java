@@ -1,3 +1,5 @@
+package leetcode.problems.lc1116_print_zero_even_odd;
+
 class ZeroEvenOdd {
     private int n;
     

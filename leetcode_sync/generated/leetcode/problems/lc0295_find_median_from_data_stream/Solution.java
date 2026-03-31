@@ -1,3 +1,5 @@
+package leetcode.problems.lc0295_find_median_from_data_stream;
+
 class MedianFinder {
 
     public MedianFinder() {

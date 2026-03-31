@@ -1,3 +1,5 @@
+package leetcode.interview.mst_04_04_check_balance_lcci;
+
 /**
  * Definition for a binary tree node.
  * public class TreeNode {

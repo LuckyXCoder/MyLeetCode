@@ -1,3 +1,5 @@
+package leetcode.interview.mst_04_05_legal_binary_search_tree_lcci;
+
 /**
  * Definition for a binary tree node.
  * public class TreeNode {

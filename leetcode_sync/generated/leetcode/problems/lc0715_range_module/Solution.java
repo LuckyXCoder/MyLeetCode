@@ -1,3 +1,5 @@
+package leetcode.problems.lc0715_range_module;
+
 class RangeModule {
 
     public RangeModule() {

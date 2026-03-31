@@ -1,3 +1,5 @@
+package leetcode.LCR.LCR124_zhong_jian_er_cha_shu_lcof;
+
 /**
  * Definition for a binary tree node.
  * public class TreeNode {

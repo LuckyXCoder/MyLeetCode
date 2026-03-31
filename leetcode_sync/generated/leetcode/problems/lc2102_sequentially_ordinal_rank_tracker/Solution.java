@@ -1,3 +1,5 @@
+package leetcode.problems.lc2102_sequentially_ordinal_rank_tracker;
+
 class SORTracker {
 
     public SORTracker() {

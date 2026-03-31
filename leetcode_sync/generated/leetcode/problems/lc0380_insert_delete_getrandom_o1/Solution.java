@@ -1,3 +1,5 @@
+package leetcode.problems.lc0380_insert_delete_getrandom_o1;
+
 class RandomizedSet {
 
     public RandomizedSet() {

@@ -1,3 +1,5 @@
+package leetcode.problems.lc0911_online_election;
+
 class TopVotedCandidate {
 
     public TopVotedCandidate(int[] persons, int[] times) {

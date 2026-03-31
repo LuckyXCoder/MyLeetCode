@@ -1,3 +1,5 @@
+package leetcode.interview.mst_02_08_linked_list_cycle_lcci;
+
 /**
  * Definition for singly-linked list.
  * class ListNode {

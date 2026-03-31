@@ -1,3 +1,5 @@
+package leetcode.problems.lc1286_iterator_for_combination;
+
 class CombinationIterator {
 
     public CombinationIterator(String characters, int combinationLength) {

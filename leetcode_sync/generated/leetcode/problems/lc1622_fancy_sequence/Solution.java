@@ -1,3 +1,5 @@
+package leetcode.problems.lc1622_fancy_sequence;
+
 class Fancy {
 
     public Fancy() {

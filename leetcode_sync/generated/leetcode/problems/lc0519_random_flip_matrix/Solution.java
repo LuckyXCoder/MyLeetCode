@@ -1,3 +1,5 @@
+package leetcode.problems.lc0519_random_flip_matrix;
+
 class Solution {
 
     public Solution(int m, int n) {

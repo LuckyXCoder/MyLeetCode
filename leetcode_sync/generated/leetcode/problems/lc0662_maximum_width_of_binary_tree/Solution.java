@@ -1,3 +1,5 @@
+package leetcode.problems.lc0662_maximum_width_of_binary_tree;
+
 /**
  * Definition for a binary tree node.
  * public class TreeNode {

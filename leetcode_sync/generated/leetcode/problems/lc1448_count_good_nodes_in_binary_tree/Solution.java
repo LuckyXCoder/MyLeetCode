@@ -1,3 +1,5 @@
+package leetcode.problems.lc1448_count_good_nodes_in_binary_tree;
+
 /**
  * Definition for a binary tree node.
  * public class TreeNode {

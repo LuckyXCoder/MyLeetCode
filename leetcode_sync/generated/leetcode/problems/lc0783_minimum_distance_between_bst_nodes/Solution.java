@@ -1,3 +1,5 @@
+package leetcode.problems.lc0783_minimum_distance_between_bst_nodes;
+
 /**
  * Definition for a binary tree node.
  * public class TreeNode {

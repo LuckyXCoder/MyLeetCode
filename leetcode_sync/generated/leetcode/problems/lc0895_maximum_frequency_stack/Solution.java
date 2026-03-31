@@ -1,3 +1,5 @@
+package leetcode.problems.lc0895_maximum_frequency_stack;
+
 class FreqStack {
 
     public FreqStack() {

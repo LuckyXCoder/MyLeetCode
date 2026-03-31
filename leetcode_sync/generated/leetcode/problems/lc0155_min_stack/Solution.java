@@ -1,3 +1,5 @@
+package leetcode.problems.lc0155_min_stack;
+
 class MinStack {
 
     public MinStack() {

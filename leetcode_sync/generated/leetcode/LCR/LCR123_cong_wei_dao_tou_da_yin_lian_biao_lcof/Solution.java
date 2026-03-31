@@ -1,3 +1,5 @@
+package leetcode.LCR.LCR123_cong_wei_dao_tou_da_yin_lian_biao_lcof;
+
 /**
  * Definition for singly-linked list.
  * public class ListNode {

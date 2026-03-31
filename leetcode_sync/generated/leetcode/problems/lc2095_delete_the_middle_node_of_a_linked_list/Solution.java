@@ -1,3 +1,5 @@
+package leetcode.problems.lc2095_delete_the_middle_node_of_a_linked_list;
+
 /**
  * Definition for singly-linked list.
  * public class ListNode {

@@ -1,3 +1,5 @@
+package leetcode.problems.lc0919_complete_binary_tree_inserter;
+
 /**
  * Definition for a binary tree node.
  * public class TreeNode {

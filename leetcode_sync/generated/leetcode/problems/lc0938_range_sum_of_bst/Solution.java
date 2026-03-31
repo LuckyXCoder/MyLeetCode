@@ -1,3 +1,5 @@
+package leetcode.problems.lc0938_range_sum_of_bst;
+
 /**
  * Definition for a binary tree node.
  * public class TreeNode {

@@ -1,3 +1,5 @@
+package leetcode.problems.lc1145_binary_tree_coloring_game;
+
 /**
  * Definition for a binary tree node.
  * public class TreeNode {

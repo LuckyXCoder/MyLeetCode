@@ -1,3 +1,5 @@
+package leetcode.problems.lc2130_maximum_twin_sum_of_a_linked_list;
+
 /**
  * Definition for singly-linked list.
  * public class ListNode {

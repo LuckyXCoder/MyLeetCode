@@ -1,3 +1,5 @@
+package leetcode.problems.lc2807_insert_greatest_common_divisors_in_linked_list;
+
 /**
  * Definition for singly-linked list.
  * public class ListNode {

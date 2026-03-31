@@ -1,3 +1,5 @@
+package leetcode.problems.lc0706_design_hashmap;
+
 class MyHashMap {
 
     public MyHashMap() {

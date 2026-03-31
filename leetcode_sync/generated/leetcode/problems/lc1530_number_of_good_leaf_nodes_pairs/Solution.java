@@ -1,3 +1,5 @@
+package leetcode.problems.lc1530_number_of_good_leaf_nodes_pairs;
+
 /**
  * Definition for a binary tree node.
  * public class TreeNode {

@@ -1,3 +1,5 @@
+package leetcode.problems.lc0211_design_add_and_search_words_data_structure;
+
 class WordDictionary {
 
     public WordDictionary() {

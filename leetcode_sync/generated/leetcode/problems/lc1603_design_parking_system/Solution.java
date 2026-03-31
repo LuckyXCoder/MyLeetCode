@@ -1,3 +1,5 @@
+package leetcode.problems.lc1603_design_parking_system;
+
 class ParkingSystem {
 
     public ParkingSystem(int big, int medium, int small) {

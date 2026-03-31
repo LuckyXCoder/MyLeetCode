@@ -1,3 +1,5 @@
+package leetcode.problems.lc2265_count_nodes_equal_to_average_of_subtree;
+
 /**
  * Definition for a binary tree node.
  * public class TreeNode {

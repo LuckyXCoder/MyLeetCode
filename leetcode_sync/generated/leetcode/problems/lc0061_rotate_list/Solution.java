@@ -1,3 +1,5 @@
+package leetcode.problems.lc0061_rotate_list;
+
 /**
  * Definition for singly-linked list.
  * public class ListNode {

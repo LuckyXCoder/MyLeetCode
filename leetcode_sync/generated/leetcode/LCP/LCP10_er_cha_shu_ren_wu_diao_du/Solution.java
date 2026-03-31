@@ -1,3 +1,5 @@
+package leetcode.LCP.LCP10_er_cha_shu_ren_wu_diao_du;
+
 /**
  * Definition for a binary tree node.
  * public class TreeNode {

@@ -1,3 +1,5 @@
+package leetcode.problems.lc0341_flatten_nested_list_iterator;
+
 /**
  * // This is the interface that allows for creating nested lists.
  * // You should not implement it, or speculate about its implementation

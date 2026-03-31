@@ -1,3 +1,5 @@
+package leetcode.problems.lc1348_tweet_counts_per_frequency;
+
 class TweetCounts {
 
     public TweetCounts() {

@@ -1,3 +1,5 @@
+package leetcode.problems.lc2286_booking_concert_tickets_in_groups;
+
 class BookMyShow {
 
     public BookMyShow(int n, int m) {

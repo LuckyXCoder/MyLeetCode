@@ -1,3 +1,5 @@
+package leetcode.problems.lc0876_middle_of_the_linked_list;
+
 /**
  * Definition for singly-linked list.
  * public class ListNode {

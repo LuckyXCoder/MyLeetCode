@@ -1,3 +1,5 @@
+package leetcode.problems.lc0530_minimum_absolute_difference_in_bst;
+
 /**
  * Definition for a binary tree node.
  * public class TreeNode {

@@ -1,3 +1,5 @@
+package leetcode.problems.lc1797_design_authentication_manager;
+
 class AuthenticationManager {
 
     public AuthenticationManager(int timeToLive) {

@@ -1,3 +1,5 @@
+package leetcode.problems.lc0284_peeking_iterator;
+
 // Java Iterator interface reference:
 // https://docs.oracle.com/javase/8/docs/api/java/util/Iterator.html
 

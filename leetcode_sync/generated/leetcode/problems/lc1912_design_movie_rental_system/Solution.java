@@ -1,3 +1,5 @@
+package leetcode.problems.lc1912_design_movie_rental_system;
+
 class MovieRentingSystem {
 
     public MovieRentingSystem(int n, int[][] entries) {

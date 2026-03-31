@@ -1,3 +1,5 @@
+package leetcode.problems.lc0111_minimum_depth_of_binary_tree;
+
 /**
  * Definition for a binary tree node.
  * public class TreeNode {

@@ -1,3 +1,5 @@
+package leetcode.LCR.LCR024_UHnkqh;
+
 /**
  * Definition for singly-linked list.
  * public class ListNode {

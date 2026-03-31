@@ -1,3 +1,5 @@
+package leetcode.problems.lc0653_two_sum_iv_input_is_a_bst;
+
 /**
  * Definition for a binary tree node.
  * public class TreeNode {

@@ -1,3 +1,5 @@
+package leetcode.LCR.LCR125_yong_liang_ge_zhan_shi_xian_dui_lie_lcof;
+
 class CQueue {
 
     public CQueue() {

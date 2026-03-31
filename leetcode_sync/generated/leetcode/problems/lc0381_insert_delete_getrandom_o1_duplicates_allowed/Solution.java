@@ -1,3 +1,5 @@
+package leetcode.problems.lc0381_insert_delete_getrandom_o1_duplicates_allowed;
+
 class RandomizedCollection {
 
     public RandomizedCollection() {

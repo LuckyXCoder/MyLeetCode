@@ -1,3 +1,5 @@
+package leetcode.problems.lc2336_smallest_number_in_infinite_set;
+
 class SmallestInfiniteSet {
 
     public SmallestInfiniteSet() {

@@ -1,3 +1,5 @@
+package leetcode.problems.lc1483_kth_ancestor_of_a_tree_node;
+
 class TreeAncestor {
 
     public TreeAncestor(int n, int[] parent) {

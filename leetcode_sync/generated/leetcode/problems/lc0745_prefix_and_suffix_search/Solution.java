@@ -1,3 +1,5 @@
+package leetcode.problems.lc0745_prefix_and_suffix_search;
+
 class WordFilter {
 
     public WordFilter(String[] words) {

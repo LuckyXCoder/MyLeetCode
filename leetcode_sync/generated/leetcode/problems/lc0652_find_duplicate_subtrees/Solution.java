@@ -1,3 +1,5 @@
+package leetcode.problems.lc0652_find_duplicate_subtrees;
+
 /**
  * Definition for a binary tree node.
  * public class TreeNode {

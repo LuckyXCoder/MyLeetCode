@@ -1,3 +1,5 @@
+package leetcode.problems.lc0676_implement_magic_dictionary;
+
 class MagicDictionary {
 
     public MagicDictionary() {

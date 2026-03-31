@@ -1,3 +1,5 @@
+package leetcode.problems.lc2487_remove_nodes_from_linked_list;
+
 /**
  * Definition for singly-linked list.
  * public class ListNode {

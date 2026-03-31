@@ -1,3 +1,5 @@
+package leetcode.problems.lc0641_design_circular_deque;
+
 class MyCircularDeque {
 
     public MyCircularDeque(int k) {

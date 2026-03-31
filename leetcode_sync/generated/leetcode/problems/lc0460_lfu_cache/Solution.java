@@ -1,3 +1,5 @@
+package leetcode.problems.lc0460_lfu_cache;
+
 class LFUCache {
 
     public LFUCache(int capacity) {

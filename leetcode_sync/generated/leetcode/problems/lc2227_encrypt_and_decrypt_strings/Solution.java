@@ -1,3 +1,5 @@
+package leetcode.problems.lc2227_encrypt_and_decrypt_strings;
+
 class Encrypter {
 
     public Encrypter(char[] keys, String[] values, String[] dictionary) {

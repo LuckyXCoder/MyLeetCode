@@ -1,3 +1,5 @@
+package leetcode.interview.mst_03_05_sort_of_stacks_lcci;
+
 class SortedStack {
 
     public SortedStack() {

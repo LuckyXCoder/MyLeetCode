@@ -1,3 +1,5 @@
+package leetcode.problems.lc0901_online_stock_span;
+
 class StockSpanner {
 
     public StockSpanner() {

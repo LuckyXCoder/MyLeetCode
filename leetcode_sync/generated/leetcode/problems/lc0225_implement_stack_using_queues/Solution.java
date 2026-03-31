@@ -1,3 +1,5 @@
+package leetcode.problems.lc0225_implement_stack_using_queues;
+
 class MyStack {
 
     public MyStack() {

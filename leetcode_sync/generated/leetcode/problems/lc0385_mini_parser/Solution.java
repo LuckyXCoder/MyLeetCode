@@ -1,3 +1,5 @@
+package leetcode.problems.lc0385_mini_parser;
+
 /**
  * // This is the interface that allows for creating nested lists.
  * // You should not implement it, or speculate about its implementation

@@ -1,3 +1,5 @@
+package leetcode.problems.lc0304_range_sum_query_2d_immutable;
+
 class NumMatrix {
 
     public NumMatrix(int[][] matrix) {

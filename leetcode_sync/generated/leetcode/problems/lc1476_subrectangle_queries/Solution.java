@@ -1,3 +1,5 @@
+package leetcode.problems.lc1476_subrectangle_queries;
+
 class SubrectangleQueries {
 
     public SubrectangleQueries(int[][] rectangle) {

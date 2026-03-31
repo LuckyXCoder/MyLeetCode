@@ -1,3 +1,5 @@
+package leetcode.problems.lc1656_design_an_ordered_stream;
+
 class OrderedStream {
 
     public OrderedStream(int n) {

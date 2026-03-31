@@ -1,3 +1,5 @@
+package leetcode.problems.lc2166_design_bitset;
+
 class Bitset {
 
     public Bitset(int size) {

@@ -1,3 +1,5 @@
+package leetcode.problems.lc0622_design_circular_queue;
+
 class MyCircularQueue {
 
     public MyCircularQueue(int k) {

@@ -1,3 +1,5 @@
+package leetcode.problems.lc2502_design_memory_allocator;
+
 class Allocator {
 
     public Allocator(int n) {

@@ -1,3 +1,5 @@
+package leetcode.problems.lc2080_range_frequency_queries;
+
 class RangeFreqQuery {
 
     public RangeFreqQuery(int[] arr) {
