@@ -14,7 +14,7 @@ dependencies = [
 ]
 
 [project.scripts]
-leetcode-generator = "leetcode_sync.cli:main"
+leetcode-generator = "leetcode_generator.cli:main"
 
 [tool.hatch.build.targets.wheel]
-packages = ["src/leetcode_sync"]
+packages = ["src/leetcode_generator"]
