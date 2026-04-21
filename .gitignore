@@ -48,6 +48,7 @@ leetcode-generator/*.egg-info
 leetcode-generator/.pytest_cache/
 leetcode-generator/.venv/
 leetcode-generator/.env
+leetcode-generator/src/参考文件
 
 # java 直接java的旧版代码文件
 legacy/
